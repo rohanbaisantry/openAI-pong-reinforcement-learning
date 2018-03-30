@@ -7,4 +7,4 @@ it uses neural networks and we train the weights.
 this code will only play the atari gane pong. 
 We use openAI to create the environment whd we interact with it. 
 
-the code is eritten in python 3
+the code is written in python 3
